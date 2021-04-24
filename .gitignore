@@ -1,0 +1,6 @@
+/.env
+/node_modules
+/database/config
+/plan.txt
+/.DS_Store
+/*.txt
